@@ -51,7 +51,7 @@ A more advanced version of this library is <a href="https://github.com/100rabhkr
     }
 </code></pre>
 <blockquote>
-<p>Some of the methods throws ExecutionException and InterruptedException so make sure to enclose them in a try and catch block.</p>
+<p>Some of the methods throw ExecutionException and InterruptedException so make sure to enclose them in a try and catch block.</p>
 </blockquote>
 <p><strong>Getting JsonObject as a String</strong></p>
 <pre><code>String jsonString = new GetJson().AsString("URL");
