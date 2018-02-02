@@ -4,8 +4,7 @@
 ---
 
 <h1 id="getjson">GetJson</h1>
-<p><a href="https://jitpack.io/#100rabhkr/GetJSON"><img src="https://jitpack.io/v/100rabhkr/GetJSON.svg" alt=""></a>  <a href="https://android-arsenal.com/details/1/6730"><img src="https://img.shields.io/badge/Android%20Arsenal-GetJSON-green.svg?style=flat" alt="Android Arsenal"></a><br>
-<a href="https://android-arsenal.com/api?level=15"><img src="https://img.shields.io/badge/API-15%2B-blue.svg?style=flat" alt="API"></a> <a href="http://paypal.me/100rabhkr"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate"></a> <a href="http://github.com/badges/stability-badges"><img src="http://badges.github.io/stability-badges/dist/stable.svg" alt="stable"></a></p>
+<p><a href="https://jitpack.io/#100rabhkr/GetJSON"><img src="https://jitpack.io/v/100rabhkr/GetJSON.svg" alt=""></a>  <a href="https://android-arsenal.com/details/1/6730"><img src="https://img.shields.io/badge/Android%20Arsenal-GetJSON-green.svg?style=flat" alt="Android Arsenal"></a> <a href="https://android-arsenal.com/api?level=15"><img src="https://img.shields.io/badge/API-15%2B-blue.svg?style=flat" alt="API"></a> <a href="http://paypal.me/100rabhkr"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate"></a> <a href="http://github.com/badges/stability-badges"><img src="http://badges.github.io/stability-badges/dist/stable.svg" alt="stable"></a></p>
 <p>GetJson is the simplest HTTP library to Receive JSON Data from REST Service. It Gives data as a String which can be used to pass the data between activities which can then be converted to JsonObject to carry on further operations. It can also return data in JsonObject. It also offers an array of Internet related features.<br>
 A more advanced version of this library is <a href="https://github.com/100rabhkr/DownZLibrary">DownZ</a>.</p>
 <p>What does GetJson do :-</p>
